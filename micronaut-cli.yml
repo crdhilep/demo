@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, gradle, hibernate-validator, http-client, http-session, jdbc-hikari, kafka, kotest, kotlin, kotlin-application, kotlin-extension-functions, log4j2, management, micrometer, micrometer-elastic, micrometer-influx, micrometer-jmx, netty-server, openapi, postgres, properties, readme, shade, testcontainers]
